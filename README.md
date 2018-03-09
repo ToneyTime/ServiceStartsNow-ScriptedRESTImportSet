@@ -5,4 +5,5 @@ This was created for sharing during the 2018 ServiceNow Knowledge Conference - C
 
 We will outline installation and usage steps.
 
-You can also find information and walk-through on my blog: https://servicestartsnow.com/category/project/scripted-rest-in-import-sets/
+You can also find information and walk-through on my blog [ServiceStartsNow.com](https://servicestartsnow.com/category/project/scripted-rest-in-import-sets/)
+
